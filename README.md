@@ -1,1 +1,1 @@
-# Broodwar-Build-Orders
+# Broodwar-Zerg-Resources
